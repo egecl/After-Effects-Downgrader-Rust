@@ -22,7 +22,7 @@ For most users, download the Windows executable from the repository’s **Releas
 Install a recent stable Rust toolchain and the Visual Studio C++ Build Tools, then run:
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/egecl/After-Effects-Downgrader-Rust
 cd ae-downgrade-toolkit-rust
 cargo build --release
 ```
